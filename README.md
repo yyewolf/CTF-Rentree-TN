@@ -11,4 +11,10 @@ Des petits write-ups pour les challenges du CTF (:
   - [Pyterpreter filters](./pypreter-2)
   - [Sudo](./sudo)
   - [Il ne peut pas être cracké](./pas-crackeable)
+  
+- WEB
+  - [Vite Mon Injection](./injection-1)
+  - [Vite Mon Injection 2](./injection-2)
+  - [Vite Mon Injection 3](./injection-3)
+  - [Template injection](./injection-4)
 
