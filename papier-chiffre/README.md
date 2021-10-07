@@ -1,6 +1,6 @@
 # Papier Chiffré 
 
-![img](./0.png)
+![img](./0.jpg)
 
 ## Challenge :
 
