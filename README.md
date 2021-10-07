@@ -4,4 +4,6 @@ Des petits write-ups pour les challenges du CTF (:
 
 ## Sommaires
 
- - [OK BOOMER](./ok-boomer)
+ - MISC
+  - [OK BOOMER](./ok-boomer)
+  - [Papier Chiffré](./papier-chiffre)

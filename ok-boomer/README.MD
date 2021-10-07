@@ -14,6 +14,8 @@ Ensuite avoir Cheat Engine pour modifier la mémoire.
 ![img](./1.png)
 ![img](./2.png)
 
+## Utilisation de l'addresse :
+
  - En trifouillant les deux valeurs, on se rend compte que la seconde est la plus interessante.
  
 ![img](./3.png)
@@ -26,6 +28,8 @@ Ensuite avoir Cheat Engine pour modifier la mémoire.
  
 ![img](./5.png)
 ![img](./6.png)
+
+## Fin :
 
  - On peut ensuite récupérer le flag :
  
