@@ -7,3 +7,4 @@ Des petits write-ups pour les challenges du CTF (:
 - MISC
   - [OK BOOMER](./ok-boomer)
   - [Papier Chiffré](./papier-chiffre)
+  - [Pyterpreter no filter](./pypreter-1)
