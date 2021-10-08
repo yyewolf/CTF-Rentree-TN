@@ -14,3 +14,5 @@ Il suffit juste de lancer ça :
 Et voilà :
 
 ![img](./0.png)
+
+- Il suffit maintenant de CTRL+F dans notre fichier `o.txt` et c'est tout bon.
