@@ -12,6 +12,7 @@ Des petits write-ups pour les challenges du CTF (:
   - [Sudo](./sudo)
   - [Leak de Git](./leak-git)
   - [Il ne peut pas être cracké](./pas-crackeable)
+  - [Pyterpreter no builtins](./pypreter-3)
   
 - WEB
   - [Vite Mon Injection](./injection-1)
