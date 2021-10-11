@@ -18,3 +18,6 @@ Des petits write-ups pour les challenges du CTF (:
   - [Vite Mon Injection 3](./injection-3)
   - [Template injection](./injection-4)
 
+- Reverse
+  - [C'est pas Grave-ET dans la roche](./grave-et)
+  - [nohtyP](./python-reverse)
