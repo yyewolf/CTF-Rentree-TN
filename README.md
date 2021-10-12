@@ -32,3 +32,10 @@ Des petits write-ups pour les challenges du CTF (:
   - [AZERTY-ed](./azertyed)
   - [QRedirection](./qredirection)
   - [Inception](./inception)
+
+- Forensics
+  - [La clé USB du jardin secret](./cle-usb)
+
+- OSINT
+  - [Une belle vue](./belle-vue)
+  - [Les joies du stalking](./stalker)
