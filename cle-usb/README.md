@@ -2,7 +2,7 @@
 
 Le challenge nous donne un dump de clé usb.
 
-## Monter le système de fichiers 
+## Monter le système de fichiers
 
 - Pour monter le dump on lance : `sudo mount "/home/user/Desktop/cle_usb_rouge.dmp" "/mnt/gen"`
 - Dans le dossier on a :

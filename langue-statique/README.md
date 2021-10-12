@@ -2,7 +2,7 @@
 
 Le challenge nous propose des langues ainsi que des textes que l'on doit relier à leur langue.
 
-## Formattage de l'entrée :
+## Formattage de l'entrée :
 
 ```py
 f = open("input.txt")
