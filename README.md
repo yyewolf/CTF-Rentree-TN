@@ -4,7 +4,7 @@ Des petits write-ups pour les challenges du CTF (:
 
 ## Sommaires
 
-- MISC
+- Misc
   - [OK BOOMER](./ok-boomer)
   - [Papier Chiffré](./papier-chiffre)
   - [Pyterpreter no filter](./pypreter-1)
@@ -14,7 +14,7 @@ Des petits write-ups pour les challenges du CTF (:
   - [Il ne peut pas être cracké](./pas-crackeable)
   - [Pyterpreter no builtins](./pypreter-3)
   
-- WEB
+- Web
   - [Vite Mon Injection](./injection-1)
   - [Vite Mon Injection 2](./injection-2)
   - [Vite Mon Injection 3](./injection-3)
@@ -23,3 +23,12 @@ Des petits write-ups pour les challenges du CTF (:
 - Reverse
   - [C'est pas Grave-ET dans la roche](./grave-et)
   - [nohtyP](./python-reverse)
+
+- Algo
+  - [Langue Statique](./langue-statique)
+
+- Stégano
+  - [Un chaton (bien?) caché](./chaton-cache)
+  - [AZERTY-ed](./azertyed)
+  - [QRedirection](./qredirection)
+  - [Inception](./inception)

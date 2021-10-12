@@ -1,0 +1,9 @@
+# AZERTY-ed
+
+AQWSEDC AZESX WQASCDE ZQW CDEFTGB VF4 CDE345FG VFR456YHGN BN?JUYTG XDRGYHN TRDCV WSE45TGBDF CDEFBGT XDR56YHNFG CFRTHV CFT67UJ?GH ZDX
+
+## Un dessin pas très bien caché
+
+- Essaye de dessiner sur ton clavier ! (Exemple avec AQWSEDC)
+
+![img](./0.png)
